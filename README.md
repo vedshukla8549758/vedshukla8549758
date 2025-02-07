@@ -10,14 +10,8 @@ The aim is to become a full-stack developer who writes clean and efficient code�
 
 ## 📚 What I'm Exploring  
 - **AI-powered automation** (Exploring Salesforce Einstein and data insights)  
-- **Git & GitHub workflows** (Building best practices for version control)  
 - **Cloud & Integrations** (AWS, Mulesoft, and API-driven solutions)  
 
-## 📫 Let's Connect!  
-- 💬 Always open to discussions on **Salesforce, GitHub, and automation**  
-- 📨 Reach out via **GitHub Issues** or [Your LinkedIn](#)  
-
----
 
 _"The best way to learn is to build, break, and rebuild!"_  
 Thanks for stopping by! 😊  
